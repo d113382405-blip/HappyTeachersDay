@@ -1,7 +1,7 @@
 {
 "name": "教師節快樂祝福卡",
 "short_name": "教師節祝福",
-"start_url": "./HappyTeachersDay.html",
+"start_url": "./index.html",
 "display": "standalone",
 "background_color": "#e0c3fc",
 "theme_color": "#8ec5fc",
