@@ -1,8 +1,8 @@
 const CACHE_NAME = 'teacher-card-v1';
 const ASSETS_TO_CACHE = [
 './',
-'./HappyTeachersDay.html',
-'./HappyTeachersDay.json'
+'./index.html',
+'./manifest.json'
 ];
 
 // 安裝 Service Worker 並快取檔案
